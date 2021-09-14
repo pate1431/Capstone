@@ -1,2 +1,1 @@
-# Capstone
-AI Hair Saloon
+#Visual Mushtach
